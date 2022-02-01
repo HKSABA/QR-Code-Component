@@ -9,7 +9,7 @@
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-media-queries-q4Ieu74tc)
 - Live Site URL: (https://qr-code-component-hks.netlify.app/)
 
 ## My process
